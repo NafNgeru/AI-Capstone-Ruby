@@ -8,7 +8,6 @@ This project demonstrates how to use Sinatra to create a lightweight web app wit
 ## Features
 - Add new tasks
 - View all tasks
-- Delete tasks
 - Lightweight and easy to run
 
 ---
@@ -61,3 +60,4 @@ This project demonstrates how to use Sinatra to create a lightweight web app wit
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
+
